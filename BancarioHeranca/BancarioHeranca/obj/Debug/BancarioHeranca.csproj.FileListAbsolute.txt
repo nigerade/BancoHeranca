@@ -1,0 +1,22 @@
+C:\Users\Valter\source\repos\BancarioHeranca\BancarioHeranca\bin\Debug\BancarioHeranca.exe.config
+C:\Users\Valter\source\repos\BancarioHeranca\BancarioHeranca\bin\Debug\BancarioHeranca.exe
+C:\Users\Valter\source\repos\BancarioHeranca\BancarioHeranca\bin\Debug\BancarioHeranca.pdb
+C:\Users\Valter\source\repos\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.csproj.AssemblyReference.cache
+C:\Users\Valter\source\repos\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Valter\source\repos\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.exe
+C:\Users\Valter\source\repos\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.pdb
+E:\ \ETEC\PA-DS\BancarioHeranca\BancarioHeranca\bin\Debug\BancarioHeranca.exe.config
+E:\ \ETEC\PA-DS\BancarioHeranca\BancarioHeranca\bin\Debug\BancarioHeranca.exe
+E:\ \ETEC\PA-DS\BancarioHeranca\BancarioHeranca\bin\Debug\BancarioHeranca.pdb
+E:\ \ETEC\PA-DS\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.csprojAssemblyReference.cache
+E:\ \ETEC\PA-DS\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.csproj.CoreCompileInputs.cache
+E:\ \ETEC\PA-DS\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.exe
+E:\ \ETEC\PA-DS\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.pdb
+E:\ \TUDO\ETEC\PA-DS\BancarioHeranca\BancarioHeranca\bin\Debug\BancarioHeranca.exe.config
+E:\ \TUDO\ETEC\PA-DS\BancarioHeranca\BancarioHeranca\bin\Debug\BancarioHeranca.exe
+E:\ \TUDO\ETEC\PA-DS\BancarioHeranca\BancarioHeranca\bin\Debug\BancarioHeranca.pdb
+E:\ \TUDO\ETEC\PA-DS\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.csproj.AssemblyReference.cache
+E:\ \TUDO\ETEC\PA-DS\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.csproj.SuggestedBindingRedirects.cache
+E:\ \TUDO\ETEC\PA-DS\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.csproj.CoreCompileInputs.cache
+E:\ \TUDO\ETEC\PA-DS\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.exe
+E:\ \TUDO\ETEC\PA-DS\BancarioHeranca\BancarioHeranca\obj\Debug\BancarioHeranca.pdb
